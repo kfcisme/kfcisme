@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **kfcisme/kfcisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# ✨ About Me:
 Working on some Minecraft plugin, and a bit of Minecraft mod, data analysis, machine learning ... 
 - 🔭 I’m currently working on **Minecraft**, **Minecraft Plugin**, **Data Analysis**
 - 🌱 I’m currently learning **Mechine Learning**
