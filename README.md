@@ -36,6 +36,6 @@ Working on some Minecraft plugin, and a bit of Minecraft mod, data analysis, mac
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kfcisme&show_icons=true&theme=darcula&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kfcisme&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kfcisme&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kfcisme&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kfcisme&count_private=true&show_icons=true&theme=dark"> </div> <div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kfcisme&layout=compact&langs_count=8&theme=algolia"> </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
